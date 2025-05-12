@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 06/05/2025
+### DATE: 12/05/2025
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,11 +47,12 @@
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/cf97e9bb-2865-4588-bdbe-cd45caca5e22)
-![image](https://github.com/user-attachments/assets/c77359fc-c4e6-4eed-92d3-7731a494d469)
+![image](https://github.com/user-attachments/assets/67f1b4a1-9879-4f37-9946-e6bdf0d1ad2a)
 
 
-### Name: Akash Prakash
-### Register Number: 212224240008
+
+### Name: SAVISH R
+### Register Number: 212224230257
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
